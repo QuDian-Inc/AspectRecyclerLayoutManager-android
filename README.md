@@ -1,5 +1,5 @@
 # AspectRecyclerLayoutManager-android
-Full Aspect Recycler LayoutManager , support certain row number
+Full Aspect Recycler LayoutManager , Support Certain Row Number
 
 ![image](Screenshot1.png) ![image](Screenshot2.png)
 
