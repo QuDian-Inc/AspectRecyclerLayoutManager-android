@@ -11,5 +11,3 @@ See the sample project for a complete solution on how to use AspectLayoutManager
 And then, in your RecyclerView adapter, or some other class of your choosing, implement `SizeCalculatorListener`. This implementation got passed to the layout manager above.
 ![image](screenshot_code0.png) ![image](screenshot_code1.png)
 
-## License
-GreedoLayout is released under the MIT license. See LICENSE for details.
